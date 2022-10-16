@@ -1,0 +1,46 @@
+#Project user
+*.user
+*.pdb
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# MSVC intellicense 
+*.VC.db
+*.aps
+*.bak
+
+*.suo
+
+#log
+*.log
+*.tlog
